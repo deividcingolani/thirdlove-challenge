@@ -1,3 +1,5 @@
+// header height
+const headerHeight = document.querySelector('.site-header').offsetHeight;
 // color heading
 const productColorHeading = document.querySelector('.variant-selector__status');
 // initial position container form === result of getDistance() fn
